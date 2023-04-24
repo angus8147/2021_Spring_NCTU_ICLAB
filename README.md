@@ -1,5 +1,9 @@
+*******This fork is for personally practice.
+
 # 2021_Spring_NCTU_ICLAB
 NCTU 2021 Spring Integrated Circuit Design Laboratory
+
+
 
 麻煩不要寄信問我講義密碼，有設密碼代表老師不希望講義外流。
 
